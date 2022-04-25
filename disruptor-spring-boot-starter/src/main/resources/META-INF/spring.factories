@@ -1,0 +1,4 @@
+# Auto Configure
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+org.ouyushan.disruptor.starter.DisruptorAutoConfiguration,\
+org.ouyushan.disruptor.starter.RingBufferAutoConfiguration
